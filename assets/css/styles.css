@@ -299,6 +299,8 @@ img {
 
 .home__card-img {
   transition: transform .4s;
+  width: 100%;
+  height: 100%;
 }
 
 .home__card-shadow {
@@ -401,6 +403,8 @@ img {
 
 .popular__img {
   transition: transform .4s;
+  width: 100%;
+  height: 200px;
 }
 
 .popular__shadow {
